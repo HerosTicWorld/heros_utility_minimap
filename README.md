@@ -27,7 +27,7 @@ This script is a creation of the brand: HerosTicWorld©
 
 📋▶️ Installation:
 
-- Put the "heros_chat_theme" folder inside your "resources" folder
+- Put the "heros_utility_minimap" folder inside your "resources" folder
 - Start the resource inside your "server.cfg"
 
 Enjoy !
@@ -38,4 +38,4 @@ Enjoy !
 
 🆘💭
 Any problem or any question ?
-Discord: #Heros#5092
+Discord: #heros0000
