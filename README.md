@@ -39,3 +39,4 @@ Enjoy !
 🆘💭
 Any problem or any question ?
 Discord: #heros0000
+https://discord.gg/FK3PGDyZmF
